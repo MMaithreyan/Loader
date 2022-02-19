@@ -54,5 +54,7 @@ h3{
 }
 section .loader:last-child .dot{
     animation-delay: calc(-0.1s * var(--i));
-
+}
+#port{
+    display: none;
 }
